@@ -1,0 +1,9 @@
+stock_prices=[]
+stock_prices.insert(0,131.10)
+stock_prices.insert(0,132.12)
+stock_prices.insert(0,135)
+print(stock_prices)
+stock_prices.pop()
+stock_prices.pop()
+stock_prices.pop()
+print(stock_prices)
